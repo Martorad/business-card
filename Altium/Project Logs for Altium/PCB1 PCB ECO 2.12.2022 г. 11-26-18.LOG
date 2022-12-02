@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AND_BIT_0 Pin=U4-9
+Removed Pin From Net: NetName=AND_BIT_1 Pin=U4-10
+Removed Pin From Net: NetName=AND_BIT_2 Pin=U4-12
+Removed Pin From Net: NetName=AND_BIT_3 Pin=U4-13
+Added Pin To Net: NetName=AND_BIT_3 Pin=U4-9
+Added Pin To Net: NetName=AND_BIT_2 Pin=U4-10
+Added Pin To Net: NetName=AND_BIT_1 Pin=U4-12
+Added Pin To Net: NetName=AND_BIT_0 Pin=U4-13
